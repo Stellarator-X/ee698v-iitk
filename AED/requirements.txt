@@ -1,0 +1,6 @@
+numpy
+matplotlib
+sklearn
+librosa
+python-Levenshtein
+tensorflow
